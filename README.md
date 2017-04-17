@@ -1,2 +1,2 @@
 # hello-word
-This id the greats project of the Universe!
+This is the greats project of the Universe!
